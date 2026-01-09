@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Sistema de Entregas",
+    "descricao": "Backend em .NET para controle de entregadores.",
+    "stack": "ASP.NET Core, SQL Server"
+  },
+  {
+    "nome": "API Financeira",
+    "descricao": "Sistema financeiro com autenticação JWT.",
+    "stack": "C#, PostgreSQL"
+  }
+]
